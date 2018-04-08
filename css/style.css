@@ -97,7 +97,7 @@ ul {
   display: none;
 }
 
-/* Media query */
+/* Media query For large screen */
 @media(min-width: 700px) {
   .wrapper {
     display: grid;
